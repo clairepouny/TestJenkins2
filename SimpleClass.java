@@ -9,7 +9,7 @@ public class SimpleClass {
 		int a=3;
 		int b=5;
 		System.out.println("La somme de a "+a+" et "+b+ " est : "+sc.somme(a,b));
-		System.out.println("Petit changement");
+		System.out.println("Petit changement 2");
 	}
 
 }
